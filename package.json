@@ -1,0 +1,15 @@
+{
+  "name": "ascii-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vite": "^8.0.9"
+  }
+}
